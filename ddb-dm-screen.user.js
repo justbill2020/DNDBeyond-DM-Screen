@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name			D&DBeyond DM Screen
-// @namespace		https://github.com/TeaWithLucas/DNDBeyond-DM-Screen/
+// @namespace		https://github.com/justbill2020/DNDBeyond-DM-Screen/
 // @version			3.3.2
 // @description		Advanced DM screen for D&DBeyond campaigns
 // @author			TeaWithLucas
 // @match			https://www.dndbeyond.com/campaigns/*
-// @updateURL		https://github.com/TeaWithLucas/DNDBeyond-DM-Screen/raw/master/ddb-dm-screen.user.js
+// @updateURL		https://github.com/justbill2020/DNDBeyond-DM-Screen/raw/master/ddb-dm-screen.user.js
 // @require			https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // @require         https://media.dndbeyond.com/character-tools/vendors~characterTools.bundle.dec3c041829e401e5940.min.js
 // @grant			GM_setValue
