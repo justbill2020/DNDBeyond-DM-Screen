@@ -61,7 +61,9 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 	padding: 6px 10px;
 }
 
-
+.ddb-campaigns-character-card-header-upper-character-info-secondary{
+	display:none;
+}
 /** New CSS **/
 
 
